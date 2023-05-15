@@ -1,6 +1,6 @@
 # PartyAI: Your Dance Party AI 🕺 🎶
 
-PartyAI is a multimodal user interface called PartyAI that tracks crowd engagement and facilitates music selection at dance parties using a webcam and pre-trained YOLOv5 head and hand detection model. Watch PartyAI_demo.mp4 for a demo.
+PartyAI is a multimodal user interface that tracks crowd engagement and facilitates music selection at dance parties using a webcam and pre-trained YOLOv5 head and hand detection model. Watch PartyAI_demo.mp4 for a demo.
 
 ## Table of Contents 🗂
 ```bash
