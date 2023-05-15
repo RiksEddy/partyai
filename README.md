@@ -28,7 +28,7 @@ Open partyai_main.ipynb in local jupyter notebook IDE (VSCode is preferred, [gui
 
 Run first block of code to pip install all necessary python packages.
 
-Replace Spotify Client ID and Client Secrent in second block of code, then run.
+Add Spotify Client ID and Client Secret strings in second block of code, then run.
 
 Run third block of code and have fun with PartyAI!
 
